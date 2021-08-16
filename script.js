@@ -10,7 +10,7 @@ const basicFiles = [
     '02. JS Engine & Version History.js',
     '03. First JavaScript Program.js',
     '04. Comments and Statements.js',
-    '05. Variable, Declaration & Identifier',
+    '05. Variable, Declaration & Identifier.js',
     '06. Let, Var and Const.js',
     '07. Datatypes.js',
     '08. Operators.js',
